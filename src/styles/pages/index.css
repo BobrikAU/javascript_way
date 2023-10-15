@@ -1,0 +1,8 @@
+@import "../../assets/fonts/fonst.css";
+@import "../variables.css";
+
+body {
+  background-color: var(--background-color-primary);
+  margin: 0;
+  min-width: 320px;
+}
